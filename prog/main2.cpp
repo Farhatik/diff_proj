@@ -149,6 +149,7 @@ int main(int, char **argv) {
 
 
         // Finally we output the parameters and prices
+        outfile << "**************************************" << std::endl;
         outfile << "Underlying:      " << data.S << std::endl;
         outfile << "Strike:          " << data.K << std::endl;
         outfile << "Risk-Free Rate:  " << data.r << std::endl;
@@ -159,8 +160,7 @@ int main(int, char **argv) {
         outfile << "Call Price with dividents:      " << call_w_div << std::endl;
 
         outfile << "Put Price:                      " << put << std::endl;
-        outfile << "Put Price with dividents:       " << put_w_div << std::endl;
-
+        outfile << "Put Price with dividents:       " << put_w_div << std::endl << std::endl;
     }
 
     return 0;

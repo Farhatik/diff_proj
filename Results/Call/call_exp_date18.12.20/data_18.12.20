@@ -1,0 +1,220 @@
+Underlying:      92.55
+Strike:          70
+Risk-Free Rate:  0.017
+Volatility:      0.4363
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Call Price:         26.5
+Call Price:                     26.0593
+Call Price with dividents:      23.13
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          72.5
+Risk-Free Rate:  0.017
+Volatility:      0.4133
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Call Price:         23.75
+Call Price:                     23.8091
+Call Price with dividents:      20.9397
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          75
+Risk-Free Rate:  0.017
+Volatility:      0.4038
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Call Price:         21.25
+Call Price:                     21.8338
+Call Price with dividents:      19.05
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          77.5
+Risk-Free Rate:  0.017
+Volatility:      0.402
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Call Price:         18.45
+Call Price:                     20.079
+Call Price with dividents:      17.398
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          80
+Risk-Free Rate:  0.017
+Volatility:      0.3876
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Call Price:         16
+Call Price:                     18.1273
+Call Price with dividents:      15.542
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          82.5
+Risk-Free Rate:  0.017
+Volatility:      0.404
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Call Price:         16.92
+Call Price:                     16.9684
+Call Price with dividents:      14.5136
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          85
+Risk-Free Rate:  0.017
+Volatility:      0.4005
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Call Price:         15.4
+Call Price:                     15.4442
+Call Price with dividents:      13.1045
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          87.5
+Risk-Free Rate:  0.017
+Volatility:      0.3718
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Call Price:         12.4
+Call Price:                     13.3427
+Call Price with dividents:      11.1153
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          90
+Risk-Free Rate:  0.017
+Volatility:      0.3782
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Call Price:         12.2
+Call Price:                     12.2386
+Call Price with dividents:      10.1403
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          92.5
+Risk-Free Rate:  0.017
+Volatility:      0.3722
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Call Price:         10.86
+Call Price:                     10.8947
+Call Price with dividents:      8.92579
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          95
+Risk-Free Rate:  0.017
+Volatility:      0.3713
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Call Price:         9.75
+Call Price:                     9.78164
+Call Price with dividents:      7.94131
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          97.5
+Risk-Free Rate:  0.017
+Volatility:      0.3605
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Call Price:         8.45
+Call Price:                     8.47884
+Call Price with dividents:      6.77618
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          100
+Risk-Free Rate:  0.017
+Volatility:      0.359
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Call Price:         7.5
+Call Price:                     7.52567
+Call Price with dividents:      5.95139
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          105
+Risk-Free Rate:  0.017
+Volatility:      0.3375
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Call Price:         5.35
+Call Price:                     5.3709
+Call Price with dividents:      4.0826
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          110
+Risk-Free Rate:  0.017
+Volatility:      0.335
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Call Price:         4.05
+Call Price:                     4.06422
+Call Price with dividents:      3.01054
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          115
+Risk-Free Rate:  0.017
+Volatility:      0.3179
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Call Price:         2.7
+Call Price:                     2.71102
+Call Price with dividents:      1.91103
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          120
+Risk-Free Rate:  0.017
+Volatility:      0.3042
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Call Price:         1.74
+Call Price:                     1.74749
+Call Price with dividents:      1.16562
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          125
+Risk-Free Rate:  0.017
+Volatility:      0.3004
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Call Price:         1.19
+Call Price:                     1.19382
+Call Price with dividents:      0.764039
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          130
+Risk-Free Rate:  0.017
+Volatility:      0.2971
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Call Price:         0.8
+Call Price:                     0.802225
+Call Price with dividents:      0.491617
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          135
+Risk-Free Rate:  0.017
+Volatility:      0.2823
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Call Price:         0.43
+Call Price:                     0.431398
+Call Price with dividents:      0.241357
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

@@ -1,0 +1,209 @@
+Underlying:      92.55
+Strike:          70
+Risk-Free Rate:  0.017
+Volatility:      0.5043
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Put Price:          5.2
+Put Price:                      3.99786
+Put Price with dividents:       4.59353
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          72.5
+Risk-Free Rate:  0.017
+Volatility:      0.4898
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Put Price:          6
+Put Price:                      4.46831
+Put Price with dividents:       5.13442
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          75
+Risk-Free Rate:  0.017
+Volatility:      0.4818
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Put Price:          7.05
+Put Price:                      5.11278
+Put Price with dividents:       5.86106
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          77.5
+Risk-Free Rate:  0.017
+Volatility:      0.4767
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Put Price:          7
+Put Price:                      5.8808
+Put Price with dividents:       6.71865
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          80
+Risk-Free Rate:  0.017
+Volatility:      0.4463
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Put Price:          6.2
+Put Price:                      6.129
+Put Price with dividents:       7.04386
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          82.5
+Risk-Free Rate:  0.017
+Volatility:      0.4581
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Put Price:          7.5
+Put Price:                      7.41973
+Put Price with dividents:       8.44528
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          85
+Risk-Free Rate:  0.017
+Volatility:      0.448
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Put Price:          8.35
+Put Price:                      8.26287
+Put Price with dividents:       9.38971
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          87.5
+Risk-Free Rate:  0.017
+Volatility:      0.4431
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Put Price:          9.4
+Put Price:                      9.30804
+Put Price with dividents:       10.5418
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          90
+Risk-Free Rate:  0.017
+Volatility:      0.4354
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Put Price:          10.45
+Put Price:                      10.3527
+Put Price with dividents:       11.6964
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          92.5
+Risk-Free Rate:  0.017
+Volatility:      0.4286
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Put Price:          11.6
+Put Price:                      11.4947
+Put Price with dividents:       12.9514
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          95
+Risk-Free Rate:  0.017
+Volatility:      0.421
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Put Price:          12.8
+Put Price:                      12.689
+Put Price with dividents:       14.2616
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          97.5
+Risk-Free Rate:  0.017
+Volatility:      0.4213
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Put Price:          14.3
+Put Price:                      14.1811
+Put Price with dividents:       15.8642
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          100
+Risk-Free Rate:  0.017
+Volatility:      0.4119
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Put Price:          19.5
+Put Price:                      15.4754
+Put Price with dividents:       17.2782
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          105
+Risk-Free Rate:  0.017
+Volatility:      0.4003
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Put Price:          21.07
+Put Price:                      18.4904
+Put Price with dividents:       20.5248
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          110
+Risk-Free Rate:  0.017
+Volatility:      0.4004
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Put Price:          27.97
+Put Price:                      22.1013
+Put Price with dividents:       24.3352
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          115
+Risk-Free Rate:  0.017
+Volatility:      0.4012
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Put Price:          26.12
+Put Price:                      25.9614
+Put Price with dividents:       28.3736
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          120
+Risk-Free Rate:  0.017
+Volatility:      0.3993
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Put Price:          34.68
+Put Price:                      29.9563
+Put Price with dividents:       32.5338
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          125
+Risk-Free Rate:  0.017
+Volatility:      0.4175
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Put Price:          65
+Put Price:                      34.5463
+Put Price with dividents:       37.2151
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Underlying:      92.55
+Strike:          130
+Risk-Free Rate:  0.017
+Volatility:      0.4241
+Maturity:        0.583333
+Dividents:        1.28547 1.28547 
+Real Option Put Price:          77.63
+Put Price:                      38.9873
+Put Price with dividents:       41.76
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
